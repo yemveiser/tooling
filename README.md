@@ -74,9 +74,3 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 ## Update
 Configured the repo for continous Integration with Jenkins.
-Modified the first readme file
-Updated this again
-Update 4
-coy repo to ssh
-test
-Duh i changed
