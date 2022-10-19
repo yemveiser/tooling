@@ -77,3 +77,4 @@ Configured the repo for continous Integration with Jenkins.
 Modified the first readme file
 Updated this again
 Update 4
+coy repo to ssh
